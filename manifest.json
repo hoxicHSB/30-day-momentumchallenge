@@ -1,0 +1,21 @@
+{
+  "name": "30-Day Momentum Challenge",
+  "short_name": "Momentum",
+  "description": "A productivity app to track your 30-day challenge, inspired by the 'Hum Jeetenge' challenge. Features editable tasks, a dynamic scoring system, and an integrated Pomodoro timer to help you build momentum and achieve your goals.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
